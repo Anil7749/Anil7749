@@ -7,29 +7,29 @@
 ### 🔧 Skills & Tools
 **Cloud**: AWS (EC2, S3, RDS, Lambda, VPC, IAM)  
 **DevOps**: Jenkins, Docker, Kubernetes, Terraform, Ansible  
-**GenAI**: LangChain, Bedrock, OpenAI API  
-**Monitoring**: CloudWatch, Nagios  
-**Programming**: Python, Shell  
+**GenAI**: LLM Log analysis, LangChain, Bedrock, OpenAI API  
+**Monitoring**: CloudWatch, Prometheus and Grafana 
+**Programming**: Python, Shell, Yaml, Json
 **Version Control**: Git, GitHub
 
 ---
 
-### 💼 Projects
+### 📂 Projects
 
-- 🔹 **CI/CD Pipeline with Jenkins & Docker**  
-  End-to-end CI/CD pipeline using Jenkins Declarative Pipeline with Dockerized deployment.
+- 🔹 **Automated Two-Tier Web Application with CI/CD Pipeline**  
+  Built automated CI/CD pipeline integrating Jenkins with GitHub webhooks. Containerized Flask backend and MySQL database using Docker Compose. Reduced deployment time from 2 hours to 15 minutes.
 
-- 🔹 **AWS 3-Tier Architecture with CloudFormation**  
-  Web, app, and DB layers with secure VPC and automation using IaC.
+- 🔹 **Three-Tier Microservices Application on Kubernetes**  
+  Deployed production-grade microservices with frontend, backend, and database tiers on Kubernetes cluster. Implemented horizontal pod autoscaling and rolling updates. Achieved 99.8% uptime.
 
-- 🔹 **Auto Scaling with ELB on AWS**  
-  High availability using Load Balancer + Auto Scaling + CloudWatch alarms.
+- 🔹 **Multi-Cloud Infrastructure Automation with Terraform**  
+  Built reusable Terraform modules for multi-cloud infrastructure provisioning across AWS, Azure, and GCP. Automated VPC networks, storage layers, compute instances, and IAM roles. Reduced provisioning time by 75%.
 
-- 🔹 **Infrastructure as Code with Terraform**  
-  Reproducible cloud resources (VPC, EC2, S3, IAM) using Terraform.
+- 🔹 **Production Monitoring Stack with Prometheus & Grafana**  
+  Deployed enterprise monitoring stack with Prometheus, Grafana, and Alert Manager for 15+ metrics. Built custom Grafana dashboards for real-time monitoring. Improved incident response time by 50%.
 
-- 🔹 **Smart Deployment Assistant using GenAI** 🚀  
-  Building a GenAI-powered assistant that auto-generates Jenkinsfiles and Dockerfiles.
+- 🔹 **AI-Powered DevOps Assistant (AIOps)** 🚀  
+  Developed intelligent DevOps assistant using LangChain and OpenAI to automate workflow generation. Automated CI/CD script generation via natural language, reducing creation time by 65%. Built log analysis module with 90% accuracy.
 
 ---
 
