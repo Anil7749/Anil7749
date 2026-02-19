@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anil Sai Telagarapu
 
-🚀 Certified AWS & DevOps Engineer | CI/CD | Docker | Kubernetes | Terraform | DevOps with GenAI | Open to Work
+AWS & DevOps Engineer | CI/CD | Docker | Kubernetes | Terraform | DevOps with GenAI | Open to Work
 
 ---
 
